@@ -18,7 +18,8 @@ function sayHiToGrandma(string){
   {
   return ('I can\'t hear you!')}
   else {
-    return ('I can\'t hear you')
+    return ('YES INDEED!')
+  }
   
 }
 
