@@ -17,5 +17,5 @@ function sayHiToGrandma(string){
   var capital = 'hello'
   capital.toUpperCase === capital
  
-  return capital()
+  return ('hello')
 }
